@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic';
+
 import { getUserById } from "@/lib/auth-database"
 import type { NextRequest } from "next/server"
 
